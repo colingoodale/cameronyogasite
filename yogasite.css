@@ -1,3 +1,7 @@
+body{
+
+}
+
 .center {
     display:block;
     margin-left: auto;
@@ -9,4 +13,5 @@ h1 {
     text-shadow: 2px 3px lightblue;
     word-spacing: 10px;
     text-align: center;
+    background-color: darkblue;
 }
